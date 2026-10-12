@@ -1,0 +1,2 @@
+permission_id,target_type,target_id,action,created_by,gate_id,role_id
+1,vehicle,1,denie,admin,1,0
